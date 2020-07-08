@@ -1,1 +1,1 @@
-pipeline('generic')
+pipeline()
