@@ -1,1 +1,1 @@
-pipeline_generic()
+pipelinegeneric()
