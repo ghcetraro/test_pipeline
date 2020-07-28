@@ -1,1 +1,1 @@
-pipeline_generic()
+pipeline_single()
